@@ -1,18 +1,8 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
-#include <stdint.h>
-#include <windows.h>
-#include <vector>
-#include <map>
-#include <algorithm>
-#include <bitset>
-#include <cmath>
 #include <stdio.h>
-#include <iostream>
 #include <fstream>
 #include <vector>
-#include <string>
-#include <math.h>
 
 using namespace std;
 
